@@ -4,7 +4,7 @@ particularly in lung cancer CT scans. Our work presents a novel
 approach to address this concern by proposing a deep fake detection
 system tailored specifically for lung cancer CT images. We curated
 a comprehensive dataset comprising authentic scans alongside
-synthesized deep fake images. Leveraging the Ensembled architecture, using two pre-trained deep learning models, DenseNet121
+synthesized deep fake images. Leveraging the Ensembled architecture, using two pre-trained deep learning models, DenseNet121
 and VGG16, we trained a convolutional neural network (CNN)
 model to effectively discriminate between genuine and manipulated
 CT scans. Our methodology incorporates advanced techniques
