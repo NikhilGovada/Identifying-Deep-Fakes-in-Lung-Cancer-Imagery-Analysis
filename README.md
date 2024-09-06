@@ -1,5 +1,5 @@
 # Identifying-Deep-Fakes-in-Lung-Cancer-Imagery-Analysis
-The increasing use of deep learning in medical imaging has raised concerns about the authenticity of diagnostic images,
+The increasing use of deep learning in medical imaging has raised concerns about the authenticity of diagnostic images,
 particularly in lung cancer CT scans. Our work presents a novel
 approach to address this concern by proposing a deep fake detection
 system tailored specifically for lung cancer CT images. We curated
